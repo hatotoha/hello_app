@@ -218,7 +218,7 @@ DEPENDENCIES
   pry-rails (= 0.3.6)
   puma (= 3.9.1)
   rails (= 5.1.6)
-  rubocop
+  rubocop (= 0.58.2)
   sass-rails (= 5.0.6)
   selenium-webdriver (= 3.14.0)
   spring (= 2.0.2)
